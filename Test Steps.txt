@@ -1,0 +1,22 @@
+ 1. Import the dataset and Read the Images and Captions in to respective variables
+ ### 2. Visualise both the images and captions present in the dataset
+ ### 3. Create indexes and map from word-to-index and index-to-word.
+ ### 4. Define a data frame to summarize Image ID, Image path and Image captions
+ ### 5. Understand the vocabulary in the data set
+ ### 6. Visualise the top 30 occuring words in the captions
+ ### 7. Visualise the Images
+ ### 8. Visualise the captions
+ ### 9. Visualise the Images and captions together
+ ### 10. Data Cleaning
+ 11.. Pre-Process the captions
+ ### 12. Create train and test data 
+ ### 13. Load the pretrained Imagenet weights of Inception net V3
+ 14. Model Building
+ 14 a. Encoder
+ 14 b. Attention model
+ 14 c. Decoder
+ 15. Model training and optimization
+ 16. Model Evaluation
+ 16 a. Greedy Search
+ 16 b. Beam Search
+ 
